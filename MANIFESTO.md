@@ -1,4 +1,3 @@
-# The Manifesto of Boring
 
 ## The Origin Story
 Shiny breaks. Boring endures.  

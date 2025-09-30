@@ -1,7 +1,7 @@
 # The BoringOps Manifesto
 
 This repository contains the **single source of truth** for the BoringOps Manifesto.  
-The text lives in [`MANIFESTO.md`](manifesto.md). All other references (including the [website](https://boringops.sh)) are generated from this file.
+The text lives in [`MANIFESTO.md`](MANIFESTO.md). All other references (including the [website](https://boringops.sh)) are generated from this file.
 
 ---
 

@@ -5,9 +5,7 @@ Innovation without stability is chaos. Stability without innovation is a graveya
 We build the rails of progress, invisible, uncelebrated, and absolutely essential.  
 Boring is not the absence of ambition. It is the foundation of trust.  
 
----
-
-## The 8 Pillars of Boredom
+## The 8 Pillars of BoringOps
 
 ### 1. Consistency
 Systems and processes always behave the same. Artifacts, environments, and operations align. Change is uneventful because it follows the same rails every time.  

@@ -49,14 +49,10 @@ Reliability, security, and ethics make infra invisible and safe. Users never thi
 **What this means:** Dependable, secure, and invisible in daily life.  
 > *“The best user experience is never thinking about the system at all.”*  
 
----
-
-## The Unspoken 9th Pillar: Stewardship
+### The Unspoken 9th Pillar: Stewardship
 Never carved in stone, never written on the tablet, but always present.  
 Boring infra doesn’t stay boring by accident. It takes ongoing care, discipline, and guardianship.  
 > *“Left alone, every system gets exciting, in the worst way.”*  
-
----
 
 ## Signs You’ve Achieved Boring
 - Deploys don’t need an audience.  

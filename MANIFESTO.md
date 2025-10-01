@@ -1,5 +1,5 @@
 
-## The Origin Story
+## The Problem With Shiny
 Shiny breaks. Boring endures.  
 Innovation without stability is chaos. Stability without innovation is a graveyard.  
 We build the rails of progress, invisible, uncelebrated, and absolutely essential.  

@@ -20,7 +20,8 @@ Keep it lean, clear, and understandable. Complexity is a tax; clarity is freedom
 > *“If you can explain it on a bar napkin, you’ve achieved nirvana.”*  
 
 ### 3. Resilience
-Boring infra survives failure, absorbs growth, and evolves gracefully. Recoveries are invisible, scaling is uneventful, and upgrades feel like routine.  `
+Boring infra survives failure, absorbs growth, and evolves gracefully. Recoveries are invisible, scaling is uneventful, and upgrades feel like routine.  
+
 **What this means**: Outages don’t make headlines, scaling doesn’t cause panic, upgrades feel normal.  
 > *“The only good scaling story is no story at all.”*  
 

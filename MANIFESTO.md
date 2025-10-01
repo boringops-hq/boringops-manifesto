@@ -69,8 +69,6 @@ Boring infra doesn’t stay boring by accident. It takes ongoing care, disciplin
 - Customers never think about your infra.  
 - You forget it’s even there, until you need it, and it works.  
 
----
-
 ## The Closing Charge
 We don’t worship boredom because it is dull.  
 We choose boredom because it is freedom: freedom from chaos, freedom from heroics, freedom to build the things that matter.  

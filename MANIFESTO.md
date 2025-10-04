@@ -1,5 +1,5 @@
 
-## The 8 Pillars of BoringOps
+## The Pillars
 
 ### 1. Consistency
 Systems and processes always behave the same. Artifacts, environments, and operations align. Change is uneventful because it follows the same rails every time.  

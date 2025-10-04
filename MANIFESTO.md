@@ -54,17 +54,3 @@ Never carved in stone, never written on the tablet, but always present.
 Boring infra doesn’t stay boring by accident. It takes ongoing care, discipline, and guardianship.  
 > *“Left alone, every system gets exciting, in the worst way.”*  
 
-## Signs You’ve Achieved Boring
-- Deploys don’t need an audience.  
-- Incidents are rare, uneventful, and easy to explain.  
-- New hires can ship in days, not months.  
-- Nobody panics about scaling.  
-- Finance complains about your bill (less).  
-- Customers never think about your infra.  
-- You forget it’s even there, until you need it, and it works.  
-
-## The Closing Charge
-We don’t worship boredom because it is dull.  
-We choose boredom because it is freedom: freedom from **chaos**, freedom from **heroics**, freedom to **build the things that matter**.  
-Boring isn’t the enemy of progress.  
-**Boring is the ground it stands on**.  

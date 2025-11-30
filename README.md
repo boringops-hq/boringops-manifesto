@@ -28,4 +28,4 @@ Pull requests and issues are welcome. Keep it boring:
 
 --- -->
 
-*Shiny breaks. Boring endures.*
+*Shiny dulls. Boring endures.*
